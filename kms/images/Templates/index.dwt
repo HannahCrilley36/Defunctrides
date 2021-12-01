@@ -1,0 +1,56 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///C|/Users/Hannah/Desktop/kms/Style2.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+    font-style: normal;
+    font-weight: 400;
+}
+body {
+    background-image: url(file:///C|/Users/Hannah/Desktop/kms/Veillon_Romain_Luxuria_10.jpg);
+    background-repeat: no-repeat;
+}
+	
+</style>
+<link href="file:///C|/Users/Hannah/Desktop/kms/css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<script src="file:///C|/Users/Hannah/Desktop/kms/jQueryAssets/jquery-1.11.1.min.js"></script>
+<script src="file:///C|/Users/Hannah/Desktop/kms/jQueryAssets/jquery-ui-effects.custom.min.js"></script>
+<script type="text/javascript">
+function MM_DW_effectHighlight(obj,method,effect,color,speed)
+{
+    obj[method](effect, {color:color}, speed);
+}
+function MM_DW_effectPulsate(obj,method,effect,mode,times,speed)
+{
+    obj[method](effect, { mode: mode,times:times}, speed);
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div style="position: absolute; top: 160px; left: 597px;">
+  <div style="position: absolute"></div>
+</div>
+<div style="position: absolute; top: 482px; left: 384px;"><img src="file:///C|/Users/Hannah/Desktop/kms/univeral.png" alt="Placeholder image" width="200" height="244" class="img-fluid" onClick="MM_DW_effectPulsate($(this),'effect','pulsate','show',5,1000)"></div>
+<span style="position: absolute; left: 951px; top: 312px; width: 432px;"><img src="file:///C|/Users/Hannah/Desktop/kms/disneyworld.png" alt="Placeholder image" width="300" height="430" class="img-fluid">
+	</span>
+	<div style="position: absolute; left: 672px; top: 355px; width: 564px; height: 363px;">
+<input name="imageField" type="image" id="imageField" src="file:///C|/Users/Hannah/Desktop/kms/titleW.png" width="800" height="600">
+</div>
+	<span style="position: absolute; top: 291px; left: 623px;"><img src="file:///C|/Users/Hannah/Desktop/kms/disneyland.png" alt="Placeholder image" width="200" height="94" usemap="#Map" class="img-fluid" onClick="MM_DW_effectHighlight($(this),'show','highlight','#ffff99',1000)"></span>
+	<map name="Map">
+	  <area shape="rect" coords="194,81,200,97" href="#">
+</map>
+	<div style="position: absolute; left: 6px; top: -95px;">
+	<input name="imageField2" type="image" id="imageField2" src="file:///C|/Users/Hannah/Desktop/kms/footer.png" width="400" height="300">
+	</div>
+</body>
+</html>
